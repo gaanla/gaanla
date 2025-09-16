@@ -15,5 +15,5 @@ Sou estudante de TI e desenvolvedor Python, apaixonado por Machine Learning, anÃ
 - [Monitor de Volatilidade com GARCH](https://github.com/GAANLA/monitor-garch)
 
 ## ðŸ“« Contato
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/GABRIELWESLEY)
+- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/gabriel-wesley-b724a7292)
 - Email: seuemail@exemplo.com
