@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou Gabriel Wesley 👋
 
-<!--
-**gaanla/gaanla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de TI e desenvolvedor Python, apaixonado por Machine Learning, análise de dados e modelos financeiros como GARCH para prever volatilidade do mercado.
 
-Here are some ideas to get you started:
+## 🛠 Tecnologias
+- Python
+- Pandas
+- Numpy
+- Matplotlib / Seaborn
+- Scikit-learn
+- Statsmodels (GARCH)
+- Jupyter Notebook
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Projetos
+- [Monitor de Volatilidade com GARCH](https://github.com/GAANLA/monitor-garch)
+
+## 📫 Contato
+- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/GABRIELWESLEY)
+- Email: seuemail@exemplo.com
